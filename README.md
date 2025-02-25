@@ -3,13 +3,19 @@ Something I want to discover is the scale in use for your PlayStation 4 Games, a
 # Data Sources
 Flat File: “playstation_4_games.csv”
 Within this dataset, it is giving us the name of the game, the features, the completion hours, size (in mb), and additional information needed for the goal of the database.
+
 Link: https://www.kaggle.com/datasets/shivamb/all-playstation-4-games
+
 API: GiantBomb API
 GiantBomb’s API is useful to determine information about the game, such as a description and images for visualization. This will be useful for the database for easier viewing.
+
 Link: https://www.giantbomb.com/api/
+
 Website: Wikipedia – List of PlayStation 4 games (A-L) & List of PlayStation 4 games (M-Z)
 Within these links, we can add in the information of a more accurate genre, the developer and publisher, and release date.
+
 https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A–L)
+
 https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(M–Z)
 # Relationship
 The relationship between all three of these datasets is clear – the name of the video game. Within each dataset, we can have a relationship between the 3 sources with the game name, especially since it is focused on a specific platform.
